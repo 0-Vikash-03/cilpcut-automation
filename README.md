@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sequential Video Clip Cutter 🎬
 
 A local Streamlit application that uses FFmpeg and ffprobe via `subprocess` to split a video into consecutive, equal-length clips with no gaps and no overlap.
@@ -67,3 +68,7 @@ maxUploadSize = 1000000
 ```
 
 Additionally, the app includes a **Direct Local File Path** tab where you can enter the path to any video on your hard drive (e.g. `D:\Videos\long_movie.mp4`) to process videos instantly with zero upload time and zero memory overhead!
+=======
+# cilpcut-automation
+this is a video clip cut automation that runs locally
+>>>>>>> fb3a025df0fb632a8de91a2d6795be65abc5418d
