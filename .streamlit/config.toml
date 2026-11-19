@@ -1,0 +1,3 @@
+[server]
+# Set upload limit to 1,000,000 MB (~1 Terabyte) for unlimited uploads
+maxUploadSize = 1000000
